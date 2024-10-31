@@ -1,1 +1,1 @@
-# LastProjectcourse
+# Djangoproject
